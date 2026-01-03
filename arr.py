@@ -5,6 +5,7 @@ def main():
 
     print("=== main/master branch output ===")
     print(f"Scores = {scores}")
+    print(f"Sum= {total}")
     print(f"Average = {average}")
    
   
